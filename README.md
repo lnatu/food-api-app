@@ -1,5 +1,6 @@
 # food-api-app
 A small app use to retrive recipe through provided API
-# how to run app
+# install
 npm install
+# run
 npm run start
